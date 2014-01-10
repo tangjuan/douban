@@ -1,4 +1,4 @@
-package com.chenyc.douban;
+﻿package com.chenyc.douban;
 
 import android.app.AlertDialog;
 import android.app.TabActivity;
@@ -10,7 +10,7 @@ import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
+import android.view.View; 
 import android.view.Window;
 import android.widget.ImageView;
 import android.widget.TabHost;

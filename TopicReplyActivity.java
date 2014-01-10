@@ -16,7 +16,7 @@ public class TopicReplyActivity extends BaseActivity{
 
 	private EditText edtContent;
 	private Button submit;
-	private String content,url,replyUrl;
+	private String content,url,replyUrl;  
 	private NetUtil netUtil=new NetUtil();
 	ProgressDialog pd;
 	

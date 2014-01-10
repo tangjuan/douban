@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 import com.google.gdata.data.PlainTextConstruct;
 import com.google.gdata.util.ServiceException;
-
+ 
 public class SayActivity extends BaseActivity{
 
 	private Button button;
