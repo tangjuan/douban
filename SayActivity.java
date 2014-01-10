@@ -9,7 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast; 
-
+  
 import com.google.gdata.data.PlainTextConstruct;
 import com.google.gdata.util.ServiceException;
  
